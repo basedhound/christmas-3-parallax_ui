@@ -1,0 +1,32 @@
+/*=============== ABOUT ===============*/
+.about{
+    &__container{
+        position: relative;
+        row-gap: 3.5rem;
+    }
+    &__data{
+        text-align: center;
+    }
+    &__description{
+        margin-bottom: 2rem;
+    }
+    &__img{
+        width: 320px;
+        justify-self: center;
+    }
+    &__snow-1,
+    &__snow-2{
+        width: 50px;
+        position: absolute;
+    }
+    &__snow-1{
+        top: 12rem;
+        left: 1.5rem;
+        animation: var(--animate-snow-1);
+    }
+    &__snow-2{
+        right: -.75rem;
+        bottom: .5rem;
+        animation: var(--animate-snow-2);
+    }
+}
