@@ -13,7 +13,7 @@
 
 ## <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Landing page design for a Christmas Day featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
+**[EN]** Landing page design for Christmas Day featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
 
 **[FR]** Page d'accueil pour la fête de Noël, mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
 
