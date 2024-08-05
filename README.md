@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://christmas-3-fv.netlify.app" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Christmas Day (Parallax)</h3>
 </div>
